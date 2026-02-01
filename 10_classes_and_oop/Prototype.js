@@ -1,4 +1,4 @@
-// let myName = "hitesh     "
+// let myName = "Chayan     "
 // let mychannel = "chai     "
 
 // console.log(myName.trueLength);
@@ -16,18 +16,18 @@ let heroPower = {
     }
 }
 
-Object.prototype.hitesh = function(){
-    console.log(`hitesh is present in all objects`);
+Object.prototype.Chayan = function(){
+    console.log(`Chayan is present in all objects`);
 }
 
-Array.prototype.heyHitesh = function(){
-    console.log(`Hitesh says hello`);
+Array.prototype.heyChayan = function(){
+    console.log(`Chayan says hello`);
 }
 
-// heroPower.hitesh()
-// myHeros.hitesh()
-// myHeros.heyHitesh()
-// heroPower.heyHitesh()
+// heroPower.Chayan()
+// myHeros.Chayan()
+// myHeros.heyChayan()
+// heroPower.heyChayan()
 
 // inheritance
 
@@ -63,5 +63,5 @@ String.prototype.trueLength = function(){
 }
 
 anotherUsername.trueLength()
-"hitesh".trueLength()
+"Chayan".trueLength()
 "iceTea".trueLength()
